@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [],
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.ipynb": "jupyter-notebook",
+        "*.parquet": "duckdb.dataFileViewer",
+        "*.csv": "duckdb.dataFileViewer",
+        "*.tsv": "duckdb.dataFileViewer",
+        "*.xlsx": "duckdb.dataFileViewer"
+    },
+    "duckdb.databases": [
+        {
+            "alias": "presidents",
+            "type": "file",
+            "path": "c:\\coding\\duckdb\\001\\presidents.duckdb",
+            "attached": false
+        }
+    ],
+    "duckdb.defaultDatabase": "presidents"
+}

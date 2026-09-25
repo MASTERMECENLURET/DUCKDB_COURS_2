@@ -1,0 +1,1 @@
+duckdb.create_function("short_name", short_name)
